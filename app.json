@@ -1,5 +1,6 @@
 {
-  "pages": [    
+  "pages": [
+    "pages/login/login",    
     "pages/test/test"
   ],
   "window": {
